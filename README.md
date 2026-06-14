@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-As I don't publish everything on github publically, here is not much to see...
+I keep a lot of my active development in private repos, so this profile looks a bit quiet for now. 
 
-However, stay tuned! I might publish some cool project one day!
+However, stay tuned! I plan to open-source some cool projects soon.
