@@ -4,39 +4,6 @@ I build AI-powered systems, tools, and workflows that turn messy data and repeti
 
 Most of my active work lives in private repos right now, but I am steadily building in public and sharing more of my stack, experiments, and projects here.
 
-## AI Engineering Stack
-
-### LLMs and Model APIs
-- OpenAI API
-- GPT-based assistants and workflows
-- Prompt engineering
-- Structured outputs
-- Tool calling and function orchestration
-
-### Agentic Systems
-- Multi-step automation
-- Retrieval-augmented generation
-- Workflow orchestration
-- Evaluation loops
-- Guardrails and human-in-the-loop review
-
-### Backend and Data
-- Python
-- FastAPI
-- SQL
-- PostgreSQL
-- ETL pipelines
-- API integrations
-- Web scraping and data enrichment
-
-### MLOps and Deployment
-- Docker
-- CI/CD
-- Cloud deployment
-- Environment management
-- Monitoring and logging
-- Reproducible pipelines
-
 ## What I Focus On
 
 - AI assistants that actually reduce work
