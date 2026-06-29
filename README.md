@@ -1,4 +1,4 @@
-# Hi there, I'm Andre
+# Hi there, I'm Andrei
 
 I build AI-powered systems, tools, and workflows that turn messy data and repetitive work into reliable products.
 
